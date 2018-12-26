@@ -1,0 +1,11 @@
+<!-- Indices written at Wed, 26 Dec 2018 12:24:56 ART -->
+
+<datastore-indexes autoGenerate="true">
+
+    <!-- Used 1 time in query history -->
+    <!-- <datastore-index kind="Usuario" ancestor="false" source="auto">
+        <property name="sexo" direction="asc"/>
+        <property name="edad" direction="asc"/>
+    </datastore-index> -->
+
+</datastore-indexes>
